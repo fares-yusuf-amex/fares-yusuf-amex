@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Fares Yusuf
+- 🌱 I’m currently a Junior Dev
+- 👀 I’m interested in fantasy books
